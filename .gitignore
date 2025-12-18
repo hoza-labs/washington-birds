@@ -1,0 +1,7 @@
+gen/**
+*-novcs*
+
+# ignore any remnants copied during generation of static site
+**/uploads/.*manifest
+*.php
+.htaccess

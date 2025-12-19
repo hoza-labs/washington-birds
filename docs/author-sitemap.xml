@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap-stylesheet.xsl?template=inner-sitemap"?>
+<?xml-stylesheet type="text/xsl" href="https://washington-birds.hoza.us/sitemap-stylesheet-for-inner-sitemap.xsl?template=inner-sitemap"?>
 <!--sitemap-generator-url="https://wpgrim.com" sitemap-generator-version="2.2.3"-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>author/julianna/index.html</loc>
+    <loc>https://washington-birds.hoza.us/author/julianna/</loc>
     <lastmod>2013-03-20T23:39:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>

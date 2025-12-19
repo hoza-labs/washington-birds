@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap-stylesheet.xsl?template=sitemap-index"?>
+<?xml-stylesheet type="text/xsl" href="https://washington-birds.hoza.us/sitemap-stylesheet-for-sitemap.xsl?template=sitemap-index"?>
 <!--sitemap-generator-url="https://wpgrim.com" sitemap-generator-version="2.2.3"-->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
   <sitemap>
-    <loc>page-sitemap.xml</loc>
-    <lastmod>2025-12-18T16:43:38+00:00</lastmod>
+    <loc>https://washington-birds.hoza.us/page-sitemap.xml</loc>
+    <lastmod>2025-12-19T23:28:43+00:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>post-sitemap.xml</loc>
+    <loc>https://washington-birds.hoza.us/post-sitemap.xml</loc>
     <lastmod>2013-03-20T23:39:49+00:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>category-sitemap.xml</loc>
+    <loc>https://washington-birds.hoza.us/category-sitemap.xml</loc>
     <lastmod>2013-03-20T23:39:49+00:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>author-sitemap.xml</loc>
+    <loc>https://washington-birds.hoza.us/author-sitemap.xml</loc>
     <lastmod>2013-03-20T23:39:49+00:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>archive-sitemap.xml</loc>
+    <loc>https://washington-birds.hoza.us/archive-sitemap.xml</loc>
     <lastmod>2012-12-25T02:15:38+00:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>image-sitemap.xml</loc>
-    <lastmod>2025-12-18T16:43:38+00:00</lastmod>
+    <loc>https://washington-birds.hoza.us/image-sitemap.xml</loc>
+    <lastmod>2025-12-19T23:28:43+00:00</lastmod>
   </sitemap>
 </sitemapindex>

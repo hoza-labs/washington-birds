@@ -1,159 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap-stylesheet.xsl?template=inner-sitemap"?>
+<?xml-stylesheet type="text/xsl" href="https://washington-birds.hoza.us/sitemap-stylesheet-for-inner-sitemap.xsl?template=inner-sitemap"?>
 <!--sitemap-generator-url="https://wpgrim.com" sitemap-generator-version="2.2.3"-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>category/lists/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/lists/</loc>
     <lastmod>2013-03-20T23:39:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/hawks-eagles-vultures-and-kin/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/hawks-eagles-vultures-and-kin/</loc>
     <lastmod>2013-03-20T15:40:54+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/ducks-geese-and-herons/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/ducks-geese-and-herons/</loc>
     <lastmod>2012-01-02T13:16:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/grebes/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/grebes/</loc>
     <lastmod>2012-01-02T09:38:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/woodpeckers/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/woodpeckers/</loc>
     <lastmod>2011-09-01T20:46:33+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/swallows/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/swallows/</loc>
     <lastmod>2011-08-30T11:14:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/herons/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/herons/</loc>
     <lastmod>2011-08-07T20:16:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/finches-and-sparrows/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/finches-and-sparrows/</loc>
     <lastmod>2011-08-05T12:05:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/mimic-thrushes-and-starlings/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/mimic-thrushes-and-starlings/</loc>
     <lastmod>2011-08-02T20:14:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/gulls/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/gulls/</loc>
     <lastmod>2011-08-01T11:09:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/blackbirds-and-kin/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/blackbirds-and-kin/</loc>
     <lastmod>2010-12-24T13:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/finches/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/finches/</loc>
     <lastmod>2010-11-27T16:19:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/pigeon-and-doves/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/pigeon-and-doves/</loc>
     <lastmod>2010-10-23T17:45:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/chickadees-wrens-and-allies/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/chickadees-wrens-and-allies/</loc>
     <lastmod>2010-10-23T16:39:24+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/quail/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/quail/</loc>
     <lastmod>2010-09-18T12:30:58+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/jays-crows-and-kin/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/jays-crows-and-kin/</loc>
     <lastmod>2010-08-02T20:02:41+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/kingfishers-waterfowl-and-shorebirds/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/kingfishers-waterfowl-and-shorebirds/</loc>
     <lastmod>2010-07-20T13:21:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/thrushes-and-waxwings/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/thrushes-and-waxwings/</loc>
     <lastmod>2010-07-16T15:46:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/warblers/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/warblers/</loc>
     <lastmod>2010-07-11T19:33:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>tag/and-allies/index.html</loc>
+    <loc>https://washington-birds.hoza.us/tag/and-allies/</loc>
     <lastmod>2010-06-21T15:43:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>tag/chickadees/index.html</loc>
+    <loc>https://washington-birds.hoza.us/tag/chickadees/</loc>
     <lastmod>2010-06-21T15:43:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>tag/nuthatches/index.html</loc>
+    <loc>https://washington-birds.hoza.us/tag/nuthatches/</loc>
     <lastmod>2010-06-21T15:43:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>tag/swallows/index.html</loc>
+    <loc>https://washington-birds.hoza.us/tag/swallows/</loc>
     <lastmod>2010-06-20T18:13:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/kingfishers/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/kingfishers/</loc>
     <lastmod>2010-06-20T10:46:53+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/waxwings/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/waxwings/</loc>
     <lastmod>2010-06-06T16:32:59+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>category/tanagers-and-kin/index.html</loc>
+    <loc>https://washington-birds.hoza.us/category/tanagers-and-kin/</loc>
     <lastmod>2010-06-01T20:29:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
